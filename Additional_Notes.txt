@@ -1,0 +1,25 @@
+I have used the EntityFramework with "Code First" wrokflow.
+
+For its configuration I used those commands in NuGet Package Manager Console:
+
+1.
+PM> Install-Package EntityFramework
+
+2.
+PM> Enable-Migrations
+
+3.
+PM> Add-Migration CreateTranslationClass
+
+4.
+PM> Update-Database
+
+I have also used bootstrap theme form website https://bootswatch.com/3/united/
+
+Theme was made by Thomas Park. Contact him at thomas@bootswatch.com.
+
+Code released under the MIT License.
+
+Based on Bootstrap. Icons from Font Awesome. Web fonts from Google.
+
+
